@@ -1,2 +1,2 @@
 # parallel_algorithms
-MIPT cource
+MIPT cource, spring 2016
